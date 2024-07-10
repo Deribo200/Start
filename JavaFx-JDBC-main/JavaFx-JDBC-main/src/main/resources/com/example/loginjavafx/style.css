@@ -1,0 +1,36 @@
+.anchor-pane-left {
+    -fx-background-color: #FED700;
+}
+
+.label-text {
+    -fx-text-fill: #807d6e;
+}
+
+.label-small {
+    -fx-font-size: 14px;
+}
+
+.label-large {
+    -fx-font-size: 18px;
+}
+
+.button-primary {
+    -fx-background-color: #FED700;
+    -fx-cursor: hand;
+    -fx-text-fill: #807d6e;
+}
+
+.button-link {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-text-fill: #004dff;
+    -fx-underline: true;
+}
+
+.font-bold {
+    -fx-font-family: "Arial Rounded MT Bold";
+}
+
+.text-field-large {
+    -fx-font-size: 18px;
+}
